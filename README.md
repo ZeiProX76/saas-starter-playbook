@@ -43,6 +43,15 @@ These are the tools and services referenced throughout this playbook:
 | **Vercel** | Hosting with one-click deploys and global CDN |
 | **Resend** | Transactional email delivery |
 
+## Related Repos
+
+| Repo | Description |
+|------|-------------|
+| [Claude Code Guide](https://github.com/ZeiProX76/claude-code-guide) | Comprehensive guide to Claude Code for developers |
+| [Claude Code Best Practices](https://github.com/ZeiProX76/claude-code-best-practices) | Actionable best practices for Claude Code workflows |
+| [AI Agent Patterns](https://github.com/ZeiProX76/ai-agent-patterns) | Design patterns for multi-agent AI systems |
+| [Claude Hooks Cookbook](https://github.com/ZeiProX76/claude-hooks-cookbook) | Hook recipes for automating Claude Code |
+
 ## Additional Resources
 
 See [resources.md](resources.md) for a full list of tools, communities, and learning materials.
